@@ -2,6 +2,12 @@
 The simplest possible Bitwig Controller Script for the Nuances Controller MK@ (make by Pierre)
 
 ## Installing
-Plasce the file in:
-  macOS : ~/Documents/Bitwig Studio/Controller Scripts/Nuances/
-  Windows: %USERPROFILE%\Documents\Bitwig Studio\Controller Scripts\Nuances\
+Plasce the file in the Bitwig controller scripts directory (based on your operating system)
+
+**macOS:**
+    
+    ~/Documents/Bitwig Studio/Controller Scripts/Nuances/
+  
+  **Windows:**
+    
+    %USERPROFILE%\Documents\Bitwig Studio\Controller Scripts\Nuances\
